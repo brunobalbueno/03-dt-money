@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Mangá",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-11-15T13:50:16.870Z"
+    },
+    {
+      "id": 2,
+      "description": "Burguer",
+      "type": "outcome",
+      "category": "Alimentacao",
+      "price": 50,
+      "createdAt": "2022-11-15T13:55:16.870Z"
+    },
+    {
+      "description": "Teste",
+      "price": 100,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2022-11-15T18:10:32.789Z",
+      "id": 3
+    },
+    {
+      "description": "Iogurte de Morango",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-11-15T18:37:14.080Z",
+      "id": 4
+    }
+  ]
+}
